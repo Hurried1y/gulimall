@@ -12,8 +12,8 @@ spring:
         endpoint: oss-cn-shanghai.aliyuncs.com
         bucket: hurried1y-gulimall
 
-      access-key: LTAI5t69ZytD5J8w5AYimB7W
-      secret-key: 2r9prUmNapAaPy1shhPFrs6pevH8x1
+      access-key: 11
+      secret-key: 11
 
   application:
     name: gulimall-third-party
