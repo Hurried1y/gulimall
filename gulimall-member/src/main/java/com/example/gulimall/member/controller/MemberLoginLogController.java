@@ -1,0 +1,29 @@
+package com.example.gulimall.member.controller;
+
+import java.util.Arrays;
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.gulimall.member.entity.MemberLoginLogEntity;
+import com.example.gulimall.member.service.MemberLoginLogService;
+
+
+
+
+/**
+ * 会员登录记录
+ *
+ * @author Hurried1y
+ * @email 3049478157@qq.com
+ * @date 2022-11-14 08:25:31
+ */
+@RestController
+public class MemberLoginLogController {
+
+}
